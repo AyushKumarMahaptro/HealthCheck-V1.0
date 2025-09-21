@@ -1,0 +1,74 @@
+{
+  "tools": [
+    {
+      "drop_name": "Reporting DB",
+      "database": "AK",
+      "select_query": "SELECT * FROM DummySales;"
+    },
+    {
+      "drop_name": "Operational DB",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "ROTOR LOG to the best 1",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 2",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 3",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 4",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 5",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 6",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 7",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 8",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 9",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 10",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 11",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    },
+    {
+      "drop_name": "Operational DB 12",
+      "database": "Test",
+      "select_query": "SELECT * FROM DummySalesData;"
+    }
+  ]
+}
